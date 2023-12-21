@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Greatcthulhu13
-- 👀 I’m interested in games development 
+- 👀 I’m interested in developing a Linux-based OS 
 - 🌱 I’m currently learning C
 
 <!--
